@@ -163,4 +163,4 @@ cython_debug/
 
 git_token.txt
 
-requirements.txt
+venv/
