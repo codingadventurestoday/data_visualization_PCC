@@ -34,6 +34,7 @@ html5lib==1.0b8
 httplib2==0.20.4
 idna==3.3
 IMAPClient==2.2.0
+importlib_metadata==8.5.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
 joblib==1.4.0
@@ -57,6 +58,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAutoGUI==0.9.53
 pycparser==2.21
+pygal==3.0.5
 PyGetWindow==0.0.9
 PyJWT==2.3.0
 PyMsgBox==1.0.9
@@ -172,6 +174,7 @@ pyobjc-framework-QuickLookThumbnailing==8.4.1
 pyobjc-framework-ReplayKit==8.4.1
 pyobjc-framework-SafariServices==8.4.1
 pyobjc-framework-SceneKit==8.4.1
+pyobjc-framework-ScreenCaptureKit==8.4.1
 pyobjc-framework-ScreenSaver==8.4.1
 pyobjc-framework-ScreenTime==8.4.1
 pyobjc-framework-ScriptingBridge==8.4.1
@@ -239,3 +242,4 @@ virtualenv==20.14.1
 virtualenv-clone==0.5.7
 Werkzeug==3.0.2
 wsproto==1.1.0
+zipp==3.20.2
