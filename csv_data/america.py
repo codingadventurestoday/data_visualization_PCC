@@ -1,6 +1,10 @@
 import pygal
 
-wm = pygal.WorldMap()
+wm = pygal.maps.world.World()
+
+# Create a Worldmap instance
+
+wm =  pygal.maps.world.World()
 wm.title = 'North, Central, and South America'
 
 wm.add("North America", ['ca', 'mx', 'us'])
